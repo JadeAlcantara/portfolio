@@ -10,10 +10,10 @@ export default function Home() {
           <h1>Página</h1>
         </div>
         <div className={style.description}>
-          <p>I'm a Product Designer with UI & UX skills</p>
+          <p>Im a Product Designer with UI and UX skills</p>
           <p>who love to build powerful and elegant products</p>
           <p>with x years of experience in the tech industry</p>
-          <p>I'm currently working at Lorem Ipsum.</p>
+          <p>Im currently working at Lorem Ipsum.</p>
         </div>
       </header>
     <main className={style.mainContent}>
